@@ -75,8 +75,8 @@ export default function DeleteAccountPage() {
         disputes, or enforce our agreements.
       </p>
 
-      <h2 style={{ fontSize: 20, marginTop: 32 }}>How long it takes</h2>
-      <p>
+      <h2 style={{ fontSize: 20, marginTop: 32 }}>How long it takes</h2> 
+      <p> 
         We aim to process deletion requests within 30 days of verifying
         your identity.
       </p>
