@@ -71,7 +71,7 @@ export default function DeleteAccountPage() {
         Once we verify your request, we will delete your account,
         registration and event participation data, networking/chat history,
         and push notification tokens, except where we are required to retain
-        certain information to comply with legal obligations, resolve
+        certain information to comply with legal obligations, resolve 
         disputes, or enforce our agreements.
       </p>
 
